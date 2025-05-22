@@ -1,0 +1,2 @@
+
+    add this <uses-permission android:name="android.permission.INTERNET"/>
